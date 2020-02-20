@@ -1,0 +1,83 @@
+body{
+    font-family: 'ABeeZee', sans-serif;
+}
+.manubar{
+    height:130px;
+    width:100%;
+}
+.manu{
+    margin:30px;
+    padding-right:20px;    
+    text-decoration:none;
+    float:right;
+    color:royalblue;
+}
+a{
+    text-decoration: none;
+    margin-left:30px;
+    color:gray;
+    font-size: 20px;
+}
+.logo{
+    height:80px;
+    width:150px;
+    float:left;
+}
+.best-products{
+    height:400px;    
+}
+.buynow-btn{
+    padding:10px 20px;
+    border-radius: 5px;
+    color:white;
+    background-color:black;   
+}
+.buynow-btn:hover{
+    padding:13px 23px;
+    border-radius: 5px;
+    color:white;
+    background-color:#4B4B4B;
+    transition: -0.5s;
+}
+
+.half-width{
+    height:100%;
+    width:38%;
+    float:left;
+    margin:4%;
+    padding:2%;
+    background-color:#F7F7F7;
+}
+.half-width:hover{
+    height:100%;
+    width:38%;
+    float:left;
+    margin:4%;
+    padding:2%;
+    background-color:white;
+}
+.half-width img{
+    height:100%;
+    width:100%;
+}
+.mobiles{
+    height:400px;
+    width:100%;
+}
+.mobile{
+    height:100%;
+    width:25%;
+    float:left;
+    padding:2%;
+    margin:2%;
+    border: 10px 20px gray)
+}
+.phone{
+    height:50%;
+    width:100%;
+}
+.see-all{
+    float:right;
+    font-size: 20px;
+    color:orange;
+}
